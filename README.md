@@ -1,2 +1,2 @@
-# Webpack
-This project is based on creating a Smart Contracts using Ethereum, JavaScript API and MetaMask. Here we see for example refresh, balance, and SendCoin over the Blockchain.
+# MetaMask and Ethereum powered smart contract
+Project webpack involves creating a smart contract by using Ethereum, JavaScript API and MetaMask. MetaMask is a browser extension that manages your Ethereum wallet and connects your browser to the blockchain. This connection enables you to send transactions to the Ethereum network. 
